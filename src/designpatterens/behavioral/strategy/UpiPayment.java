@@ -1,4 +1,4 @@
-package lld.behavioral.strategy;
+package designpatterens.behavioral.strategy;
 
 public class UpiPayment implements PaymentStategy{
     @Override

@@ -1,4 +1,4 @@
-package lld.behavioral.strategy;
+package designpatterens.behavioral.strategy;
 
 public class NetBankingPayment implements PaymentStategy{
     @Override
